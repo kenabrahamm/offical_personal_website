@@ -19,14 +19,14 @@ export default function PalindromePage() {
         </p>
       </Card>
       <div className="flex justify-center">
-        <Image 
+        {/* <Image 
           src="/space_around_you/pic1.jpg" 
           alt='pic of the full condo'
           width={800} 
           height={533} 
           className="rounded-lg" 
           priority 
-        />
+        /> */}
       </div>
 
       <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
@@ -37,14 +37,14 @@ export default function PalindromePage() {
         In the space there's a circular table surrounded by 3 floor chairs while both our desks and monitors sit facing the windows. On the table we always leave, coasters, a deck of cards, colouring pencils and a scroll of paper.
       </p>
       <div className="flex justify-center">
-        <Image 
+        {/* <Image 
           src="/space_around_you/pic2.jpeg" 
           alt='pic of the table'
           width={800} 
           height={533} 
           className="rounded-lg" 
           priority 
-        />
+        /> */}
       </div>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
