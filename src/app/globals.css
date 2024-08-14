@@ -64,6 +64,6 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-white text-black dark:bg-gray-900 dark:text-white;
   }
 }

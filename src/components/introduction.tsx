@@ -2,8 +2,8 @@ import React from "react"
 
 export function Introduction() {
   return (
-    <div className="space-y-4 mt-6 font-sans">
-    <h2 className="scroll-m-20 text-xl" >Ken Abraham</h2>
+    <div className="space-y-4 font-sans">
+    
 
       <p className="font-light ">I have a love for the <span className="font-semibold"> real world </span></p>
         <div className="max-w-xl">
