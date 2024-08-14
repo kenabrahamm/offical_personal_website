@@ -22,7 +22,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <html lang="en" suppressHydrationWarning>
         <head>
         <body className={inter.className}>
-          <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
+          {/* <ThemeProvider attribute="class" defaultTheme="dark" enableSystem> */}
             <div className="max-w-3xl mx-auto px-4 flex flex-col min-h-screen">
               <Navbar />
               
@@ -30,7 +30,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
                 {children}
               </main>
             </div>
-          </ThemeProvider>
+          {/* </ThemeProvider> */}
         </body>
         </head>
       </html>
