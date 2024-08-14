@@ -5,17 +5,17 @@ export function Introduction() {
     <div className="space-y-4 font-sans">
     
 
-      <p className="font-light ">I have a love for the <span className="font-semibold"> real world </span></p>
+      <p className="font-light ">I love the <span className="font-semibold"> real world.</span></p>
         <div className="max-w-xl">
         <p className="font-light">
-        Focusing on doing great work at the intersection of the <span className="text-muted-foreground font-semibold">digital</span> and <span className="text-muted-foreground font-semibold">physical </span> things. Currently building products in both realms with the aiming to expand my understanding of manufacturing processes/philosophies & digital infrastructure.
+        Focused on doing great work to improve how phyiscal things are made in a digital world. Currently learning (by doing) how physical and digital products are made.
         </p>
         <br/>
         <p className="font-light">
             My formal education is in Finance/Econ from Rotman Commerce @
             <span className="font-semibold"> University of Toronto. </span> My informal education spans 
             <span className="font-semibold"> UI design,</span>
-            <span className="font-semibold"> Front-end develop </span> and
+            <span className="font-semibold"> Front-end development </span> and
             <span className="font-semibold">  data-science.</span>
             
             {/* <span className="font-semibold">Next.js</span>,{" "}
@@ -25,9 +25,10 @@ export function Introduction() {
         </p>
       </div>
       <p className="font-light">
-        I currently work in warehousing {" "}
-        <span className="font-semibold"> Analytics / Project Management</span> at{" "}
-        <span className="font-semibold">Procter & Gamble</span>
+        I currently work as a 
+        <span className="font-semibold"> Process Engineer</span> doing warehousing analytics & project management @
+        {/* <span className="font-semibold"> Analytics / Project Management</span> at{" "} */}
+        <span className="font-semibold"> Procter & Gamble</span>. 
       </p>
     </div>
   )
