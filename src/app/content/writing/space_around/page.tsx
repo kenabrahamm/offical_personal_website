@@ -6,7 +6,7 @@ import { Card } from '@/components/ui/card';
 export default function PalindromePage() {
   return (
     <div className="container mx-auto py-6 space-y-6">
-      <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-3xl">
+      {/* <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-3xl">
         The Space Around You Matters
       </h1>
     <Card className="p-4">
@@ -18,7 +18,7 @@ export default function PalindromePage() {
             There is no wrong or right living setup, I thought it would be fun to experiment with a decision that's reversible.
         </p>
       </Card>
-      <div className="flex justify-center">
+      <div className="flex justify-center"> */}
         {/* <Image 
           src="/space_around_you/pic1.jpg" 
           alt='pic of the full condo'
@@ -27,7 +27,7 @@ export default function PalindromePage() {
           className="rounded-lg" 
           priority 
         /> */}
-      </div>
+      {/* </div>
 
       <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
         Introducing the Space
@@ -36,7 +36,7 @@ export default function PalindromePage() {
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         In the space there's a circular table surrounded by 3 floor chairs while both our desks and monitors sit facing the windows. On the table we always leave, coasters, a deck of cards, colouring pencils and a scroll of paper.
       </p>
-      <div className="flex justify-center">
+      <div className="flex justify-center"> */}
         {/* <Image 
           src="/space_around_you/pic2.jpeg" 
           alt='pic of the table'
@@ -45,7 +45,7 @@ export default function PalindromePage() {
           className="rounded-lg" 
           priority 
         /> */}
-      </div>
+      {/* </div>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         Link to chair: <Link href="https://amzn.to/3jY1kq0" className="font-medium text-primary underline underline-offset-4">https://amzn.to/3jY1kq0</Link>
@@ -98,6 +98,7 @@ export default function PalindromePage() {
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         It isn't for everyone, but truthfully, I always found myself sitting on the floor leaning against the sofa. So when I got my own place I wanted to recreate that experience everyday.
       </p>
+    </div> */}
     </div>
   )
 }
