@@ -17,7 +17,7 @@ export default function PalindromePage() {
           When I moved out, my roommate and I discussed how we wanted to feel in the space, and of course the budget. We landed on no couch and no TV.
       </p>
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-          There is no wrong or right living setup, I thought it would be fun to experiment with a decision that's reversible.
+          There is no wrong or right living setup, I thought it would be fun to experiment with a decision that&apos;s reversible.
       </p>
       <div className="flex justify-center"> 
         <Image 
@@ -35,7 +35,7 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        In the space there's a circular table surrounded by 3 floor chairs while both our desks and monitors sit facing the windows. On the table we always leave, coasters, a deck of cards, colouring pencils and a scroll of paper.
+        In the space there&apos;s a circular table surrounded by 3 floor chairs while both our desks and monitors sit facing the windows. On the table we always leave, coasters, a deck of cards, colouring pencils and a scroll of paper.
       </p>
       <div className="flex justify-center"> 
         <Image 
@@ -61,11 +61,11 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Humans are visual creatures, or at least I am, so it's natural for us to focus on the things around us. I wanted to remove the default center of focus, the TV. By doing this there's space for a new one to emerge, one that is centered around people, one where you're less passively engaged. There's so many times where I found myself scrolling on my phone while watching TV. Getting nothing out of either experience. Now, I find myself sitting down looking blankly at nothing, there's nothing I am supposed to look at. sometimes I sit and only listen to music, or sit and eventually have my eyes shift focus to one of books on the table and read.
+        Humans are visual creatures, or at least I am, so it&apos;s natural for us to focus on the things around us. I wanted to remove the default center of focus, the TV. By doing this there&apos;s space for a new one to emerge, one that is centered around people, one where you&apos;re less passively engaged. There&apos;s so many times where I found myself scrolling on my phone while watching TV. Getting nothing out of either experience. Now, I find myself sitting down looking blankly at nothing, there&apos;s nothing I am supposed to look at. sometimes I sit and only listen to music, or sit and eventually have my eyes shift focus to one of books on the table and read.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        For watching content, I regularly book out the condo theater room, which is always available, or just watch through my laptop. In all fairness I don't watch much TV, but when I do I like the sense of occasion and engagement the theater room brings.
+        For watching content, I regularly book out the condo theater room, which is always available, or just watch through my laptop. In all fairness I don&apos;t watch much TV, but when I do I like the sense of occasion and engagement the theater room brings.
       </p>
 
       <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
@@ -73,11 +73,11 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        In this world it's very easy to take yourself too seriously. Many of us lead very busy lives filled with deadlines, stress and obligations. You might be working on new technology in emerging markets, or high value deals, or at the edge of artistic vision, all this noise makes it really easy to take yourself too seriously.
+        In this world it&apos;s very easy to take yourself too seriously. Many of us lead very busy lives filled with deadlines, stress and obligations. You might be working on new technology in emerging markets, or high value deals, or at the edge of artistic vision, all this noise makes it really easy to take yourself too seriously.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        When you're sitting on the floor it brings you back to a simpler time. It brings everyone to the same level, a more intimate state where we can all feel a bit more like a kid again. My friends and I joke that the setup is a lot like a kindergarten classroom, with colouring pencils, paper and books in the middle.  At first there's confusion, excitement or a bit of hesitation, after a while I always find people doodling or using the scroll to explain thoughts or just play tic-tac-toe, in either situation I find it more dynamic than watching TV.
+        When you&apos;re sitting on the floor it brings you back to a simpler time. It brings everyone to the same level, a more intimate state where we can all feel a bit more like a kid again. My friends and I joke that the setup is a lot like a kindergarten classroom, with colouring pencils, paper and books in the middle.  At first there&apos;s confusion, excitement or a bit of hesitation, after a while I always find people doodling or using the scroll to explain thoughts or just play tic-tac-toe, in either situation I find it more dynamic than watching TV.
       </p>
 
       <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
@@ -85,7 +85,7 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It's cheap. 3 floor chairs and 1 fancy swivel chair, brand new, cost us a total of $360. It's tough finding  a used sofa for that price seating 4. It also an ideal to cuddle with your girlfriend without falling, we've all been there, you can't fall if you're already on the floor.
+        It&apos;s cheap. 3 floor chairs and 1 fancy swivel chair, brand new, cost us a total of $360. It&apos;s tough finding  a used sofa for that price seating 4. It also an ideal to cuddle with your girlfriend without falling, we&apos;ve all been there, you can&apos;t fall if you&apos;re already on the floor.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -97,7 +97,27 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It isn't for everyone, but truthfully, I always found myself sitting on the floor leaning against the sofa. So when I got my own place I wanted to recreate that experience everyday.
+        It isn&apos;t for everyone, but truthfully, I always found myself sitting on the floor leaning against the sofa. So when I got my own place I wanted to recreate that experience everyday.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        I&apos;ve always been fascinated by the idea of space. Not just the physical space around us, but the mental and emotional space we create in our lives.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        It wasn&apos;t until I moved into my own place that I started to understand the importance of intentional space.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        I&apos;ve learned that the space we create isn&apos;t just about aesthetics - it&apos;s about creating an environment that supports our well-being and helps us thrive. It&apos;s about making room for what matters most in our lives.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        That&apos;s why I&apos;ve been intentional about creating spaces that feel both functional and inspiring. Whether it&apos;s my workspace or my living room, each area serves a purpose and reflects my values.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        I&apos;ve found that when we create space with intention, we&apos;re not just organizing our physical environment - we&apos;re creating room for growth, creativity, and peace of mind.
       </p>
     </div>
     
