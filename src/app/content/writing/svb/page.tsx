@@ -1,0 +1,97 @@
+import React from 'react';
+import Link from 'next/link';
+import { Separator } from '@/components/ui/separator';
+import Image from 'next/image';
+
+export default function SVBPage() {
+  return (
+    <div className="container mx-auto py-6 space-y-6">
+      <h1 className="scroll-m-20 text-3xl font-semibold tracking-tight lg:text-3xl">
+        <Link href="/content/writing/svb" className="hover:underline">
+          My philosophy on money; why I built Intentions
+        </Link>
+      </h1>
+      <p className="text-muted-foreground">April 22, 2023 · 2 minute read</p>
+      <Separator/>
+      
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        I have been curious about exploring the way that our personalities manifest in the material world. This means looking at data.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        While some turn to astrology or a myers briggs test, I wanted to use something that we interact with everyday, money, more specifically our spending. This lead me to build SavebyValues
+      </p>
+      <div className="flex justify-center border-2 border-gray-200 rounded-sm"> 
+        <Image 
+          src="/svb/pic4.png" 
+          alt='pic of the full condo with floor chairs and desks facing windows'
+          width={800} 
+          height={533} 
+          className="rounded-sm" 
+          priority 
+        />
+      </div>
+
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
+        A New Narrative
+      </h2>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        Traditionally when we approach budgeting and saving it comes from a mindset of scarcity and fear. We are often defensive and confused by the numbers, bracing ourselves like we're about to be condemned.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        My goal with Intentions was to explore a new narrative, one that uses spending as a connection point to something deeper and more tangible, your values.
+      </p>
+
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
+        Personal Journey
+      </h2>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        My relationship with money has been complicated. Growing up as an immigrant kid, I went through the highs and lows of when money did, and didn't exist. Those experiences made me feel confused as to what money truly meant to me. Sometimes I felt like it was all meaningless, and at other points I felt like it was the only thing worth striving for.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        As I grew older and started to reflect, I developed a framework to think about spending in a way that resonates with me: how the money I spend reflects my values. I learned that the context matters, more than just the "What", the Why, with Who, and How it made me feel such more important.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        When I see $18 dollars spent at a thai restaurant I ask myself, was this because I didn't want to cook, or was this to enjoy the company of a friend?
+
+      </p>
+      
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
+        Value-Based Decisions
+      </h2>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        I learned to Tag my transactions based on a premise, what would I look back on and not regret.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        That being said, money isn't infinite. There's many things I would love to do and I know I would not regret, but ultimately we all have to make choices.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        We are all aware that delaying the gratification of spending now can lead to a better life later, but how much of that takes away from the current moment? These are decision trees that might be taking place sub-consciously as we spend our money.
+      </p>
+
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
+        North Stars and Themes
+      </h2>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        Personally in my life, I have north stars as overall guiding points and themes for shorter time periods. A personal north star for me is that I want a family and kids. I know that if I don't put myself in the best position to make this happen, I will regret it deeply. So naturally all the themes within my life have to keep this north-star in mind.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        My north star and themes provide me a starting point to structure my financial goals. For example, this year my theme might be travel. I don't know where or when, but I want to be in a place where I could take action. Thus in 2023, after food, shelter, saving for my future kids and X amount money for traveling, I will have Y amount to spend of which I can choose to save Z amount. The Y amount might not be large, so I want make it count.
+      </p>
+
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+        As I grow older, I see that my peers resonate with this approach to finances. This kind of approach has made finances less daunting and that is the reason I built Intentions, to enable others to feel the same.
+      </p>
+    </div>
+  )
+}

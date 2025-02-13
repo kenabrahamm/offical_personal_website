@@ -2,56 +2,57 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Card } from '@/components/ui/card';
+import { Separator } from '@/components/ui/separator';
 
 export default function PalindromePage() {
   return (
     <div className="container mx-auto py-6 space-y-6">
-      {/* <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-3xl">
-        The Space Around You Matters
+      <h1 className="scroll-m-20 text-3xl font-semibold tracking-tight lg:text-3xl">
+        <Link href="/content/writing/space_around" className="hover:underline">
+          The Space Around You Matters
+        </Link>
       </h1>
-    <Card className="p-4">
-        <p className="leading-7 [&:not(:first-child)]:mt-6">
-            When I moved out, my roommate and I discussed how we wanted to feel in the space, and of course the budget. We landed on no couch and no TV.
-        </p>
-
-        <p className="leading-7 [&:not(:first-child)]:mt-6">
-            There is no wrong or right living setup, I thought it would be fun to experiment with a decision that's reversible.
-        </p>
-      </Card>
-      <div className="flex justify-center"> */}
-        {/* <Image 
-          src="/space_around_you/pic1.jpg" 
-          alt='pic of the full condo'
+      <Separator/>
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+          When I moved out, my roommate and I discussed how we wanted to feel in the space, and of course the budget. We landed on no couch and no TV.
+      </p>
+      <p className="leading-7 [&:not(:first-child)]:mt-6">
+          There is no wrong or right living setup, I thought it would be fun to experiment with a decision that's reversible.
+      </p>
+      <div className="flex justify-center"> 
+        <Image 
+          src="/space_around/pic1.jpg" 
+          alt='pic of the full condo with floor chairs and desks facing windows'
           width={800} 
           height={533} 
-          className="rounded-lg" 
+          className="rounded-sm" 
           priority 
-        /> */}
-      {/* </div>
+        />
+      </div>
 
-      <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
         Introducing the Space
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         In the space there's a circular table surrounded by 3 floor chairs while both our desks and monitors sit facing the windows. On the table we always leave, coasters, a deck of cards, colouring pencils and a scroll of paper.
       </p>
-      <div className="flex justify-center"> */}
-        {/* <Image 
-          src="/space_around_you/pic2.jpeg" 
+      <div className="flex justify-center"> 
+        <Image 
+          src="/space_around/pic3.jpeg" 
           alt='pic of the table'
           width={800} 
           height={533} 
-          className="rounded-lg" 
+          className="rounded-sm" 
           priority 
-        /> */}
-      {/* </div>
+        />
+       </div>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         Link to chair: <Link href="https://amzn.to/3jY1kq0" className="font-medium text-primary underline underline-offset-4">https://amzn.to/3jY1kq0</Link>
       </p>
 
-      <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
         Creating Intentionality
       </h2>
 
@@ -67,7 +68,7 @@ export default function PalindromePage() {
         For watching content, I regularly book out the condo theater room, which is always available, or just watch through my laptop. In all fairness I don't watch much TV, but when I do I like the sense of occasion and engagement the theater room brings.
       </p>
 
-      <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
         A Childlike Wonder
       </h2>
 
@@ -79,7 +80,7 @@ export default function PalindromePage() {
         When you're sitting on the floor it brings you back to a simpler time. It brings everyone to the same level, a more intimate state where we can all feel a bit more like a kid again. My friends and I joke that the setup is a lot like a kindergarten classroom, with colouring pencils, paper and books in the middle.  At first there's confusion, excitement or a bit of hesitation, after a while I always find people doodling or using the scroll to explain thoughts or just play tic-tac-toe, in either situation I find it more dynamic than watching TV.
       </p>
 
-      <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
+      <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
         Practicality
       </h2>
 
@@ -98,7 +99,7 @@ export default function PalindromePage() {
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         It isn't for everyone, but truthfully, I always found myself sitting on the floor leaning against the sofa. So when I got my own place I wanted to recreate that experience everyday.
       </p>
-    </div> */}
     </div>
+    
   )
 }
