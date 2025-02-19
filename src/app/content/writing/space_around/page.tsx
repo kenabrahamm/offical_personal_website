@@ -6,12 +6,13 @@ import { Separator } from '@/components/ui/separator';
 
 export default function PalindromePage() {
   return (
-    <div className="container mx-auto py-6 space-y-6">
+    <div className="container mx-auto py-6 px-2 sm:px-2 space-y-6">
       <h1 className="scroll-m-20 text-3xl font-semibold tracking-tight lg:text-3xl">
         <Link href="/content/writing/space_around" className="hover:underline">
           The Space Around You Matters
         </Link>
       </h1>
+      <p className="text-muted-foreground">January 2023 - 2 minute read</p>
       <Separator/>
       <p className="leading-7 [&:not(:first-child)]:mt-6">
           When I moved out, my roommate and I discussed how we wanted to feel in the space, and of course the budget. We landed on no couch and no TV.
@@ -100,25 +101,8 @@ export default function PalindromePage() {
         It isn&apos;t for everyone, but truthfully, I always found myself sitting on the floor leaning against the sofa. So when I got my own place I wanted to recreate that experience everyday.
       </p>
 
-      <p className="leading-7 [&:not(:first-child)]:mt-6">
-        I&apos;ve always been fascinated by the idea of space. Not just the physical space around us, but the mental and emotional space we create in our lives.
-      </p>
-
-      <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It wasn&apos;t until I moved into my own place that I started to understand the importance of intentional space.
-      </p>
-
-      <p className="leading-7 [&:not(:first-child)]:mt-6">
-        I&apos;ve learned that the space we create isn&apos;t just about aesthetics - it&apos;s about creating an environment that supports our well-being and helps us thrive. It&apos;s about making room for what matters most in our lives.
-      </p>
-
-      <p className="leading-7 [&:not(:first-child)]:mt-6">
-        That&apos;s why I&apos;ve been intentional about creating spaces that feel both functional and inspiring. Whether it&apos;s my workspace or my living room, each area serves a purpose and reflects my values.
-      </p>
-
-      <p className="leading-7 [&:not(:first-child)]:mt-6">
-        I&apos;ve found that when we create space with intention, we&apos;re not just organizing our physical environment - we&apos;re creating room for growth, creativity, and peace of mind.
-      </p>
+     
+   
     </div>
     
   )

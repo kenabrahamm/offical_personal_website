@@ -23,19 +23,21 @@ interface Project {
 
 const blogPosts: BlogPost[] = [
   {
-    title: "No couch, no TV",
-    href: "/content/writing/space_around",
-    tags: ["Interior Design"],
-    date: "March-2023",
-    description: "2min read",
-  },
-  {
     title: "My philosophy on money; why I built ",
     href: "/content/writing/svb",
     tags: ["Digital"],
-    date: "March-2023",
+    date: "April 2023",
+    description: "2min read",
+},
+  {
+    title: "No couch, no TV",
+    href: "/content/writing/space_around",
+    tags: ["Interior Design"],
+    date: "January 2023",
     description: "2min read",
   },
+  
+
   // Add more blog posts here
 ];
 
