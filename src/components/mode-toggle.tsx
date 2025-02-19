@@ -15,6 +15,10 @@ import {
 export function ModeToggle() {
   const { setTheme } = useTheme()
 
+  React.useEffect(() => {
+    setTheme("system")
+  }, [setTheme])
+
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>

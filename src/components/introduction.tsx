@@ -6,7 +6,7 @@ export function Introduction() {
       <p className="font-light ">I love the <span className="font-semibold"> real world.</span></p>
       <div className="">
           <p className="font-light">
-            Focused on improving how phyiscal things are made in a digital world. Currently learning (by doing) how physical and digital products are made.
+            Focused on improving how phyiscal things are made in a digital world. Currently building physical and digital products.
           </p>
           <br/>
           <p className="font-light">

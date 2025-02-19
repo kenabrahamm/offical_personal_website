@@ -16,14 +16,16 @@ export function Navbar() {
               Ken Abraham
             </Link>
           </div>
-          <div className="hidden sm:flex sm:space-x-8">
-            <Link href="/" className="border-transparent text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
-              Home
-            </Link>
-            
+          <div className="flex items-center space-x-8">
+            <div className="hidden sm:block">
+              <Link href="/" className="border-transparent text-gray-500 dark:text-gray-300 hover:border-gray-300 hover:text-gray-700 dark:hover:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
+                Home
+              </Link>
+            </div>
             <ModeToggle/>
             {/* Add more navigation items as needed */}
           </div>
+          
         </div>
       </div>
     </nav>
