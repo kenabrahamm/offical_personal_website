@@ -39,7 +39,7 @@ I have been curious about exploring how our personalities manifest in the materi
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         Traditionally, when we approach budgeting and saving, it comes from a mindset of scarcity and fear. 
-        We are often defensive and confused by the numbers, bracing ourselves as if we're about to be condemned. 
+        We are often defensive and confused by the numbers, bracing ourselves as if we&apos;re about to be condemned. 
         My goal with Intentions is to explore a new narrative, one that uses spending as a connection point to something deeper and more tangible: your values.
       </p>
 
@@ -52,11 +52,11 @@ I have been curious about exploring how our personalities manifest in the materi
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-      My relationship with money has been complicated. Growing up as an immigrant kid, I went through the highs and lows of when money did and didn't exist. Those experiences left me confused about what money truly meant to me. Sometimes I felt like it was meaningless, and at other points, I felt like it was the only thing worth striving for.
+      My relationship with money has been complicated. Growing up as an immigrant kid, I went through the highs and lows of when money did and didn&apos;t exist. Those experiences left me confused about what money truly meant to me. Sometimes I felt like it was meaningless, and at other points, I felt like it was the only thing worth striving for.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-      As I grew older and started to reflect, I developed a framework to think about spending in a way that resonated with me, seeing money for what it is: a tool. I learned that context matters more than just the "What." The Why, with Whom, and How it made me feel were much more important—they told the story (or at least part of it) of who I am and what I value.
+      As I grew older and started to reflect, I developed a framework to think about spending in a way that resonated with me, seeing money for what it is: a tool. I learned that context matters, more than just the &ldquo;What&ldquo;, the Why, with Who, and How it made me feel were much more important—they told the story (or at least part of it) of who I am and what I value.
 
       </p>
 {/* 
@@ -70,7 +70,7 @@ I have been curious about exploring how our personalities manifest in the materi
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
       I learned to tag my transactions based on a simple premise: things I want to maximize and minimize. 
-      That's why I built Intentions, a tool that helps you understand your spending through the lens of your values. It's not about judging your spending; it's about understanding it.
+      That&apos;s why I built Intentions, a tool that helps you understand your spending through the lens of your values. It&apos;s not about judging your spending; it&apos;s about understanding it.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -89,11 +89,11 @@ I have been curious about exploring how our personalities manifest in the materi
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-      In my life, I have north stars as overall guiding points and themes for shorter time periods. A personal north star for me is having a family and kids. I know that if I don't put myself in the best position to make this happen, I will regret it deeply. So naturally, all the themes within my life must keep this north star in mind.
+      In my life, I have north stars as overall guiding points and themes for shorter time periods. A personal north star for me is having a family and kids. I know that if I don&apos;t put myself in the best position to make this happen, I will regret it deeply. So naturally, all the themes within my life must keep this north star in mind.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-       My north star and themes provide me with a starting point to structure my financial goals. For example, this year my theme might be to explore, I don't know if that means travel, hobbies, where or when, but I want to be in a position where I can take action. Thus in 2023, after accounting for food, shelter and keeping in mind my north star, I would want to spending towards exploration, my interests/hobbies and the world.
+       My north star and themes provide me with a starting point to structure my financial goals. For example, this year my theme might be to explore, I don&apos;t know if that means travel, hobbies, where or when, but I want to be in a position where I can take action. Thus in 2023, after accounting for food, shelter and keeping in mind my north star, I would want to spending towards exploration, my interests/hobbies and the world.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
