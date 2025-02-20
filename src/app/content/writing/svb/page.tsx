@@ -16,7 +16,7 @@ export default function SVBPage() {
       
       <p className="leading-7 [&:not(:first-child)]:mt-6">
         
-I have been curious about exploring how our personalities manifest in the material world, while some turn to astrology or Myers-Briggs tests, I wanted to use something we interact with every day: money, specifically our spending data. This led me to build SavebyValues, which later became Intentions.
+I have been curious about exploring how our personalities manifest in the material world. While some turn to astrology or Myers-Briggs tests, I wanted to use something we interact with every day: money, specifically our spending data. This led me to build SavebyValues, which later became Intentions.
       </p>
 
       {/* <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -57,7 +57,7 @@ I have been curious about exploring how our personalities manifest in the materi
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
       As I grew older and started to reflect, I developed a framework to think about spending in a way that resonated with me, seeing money for what it is, a tool. 
-      I learned that by understanding the context behind my how I used this tool, not just &ldquo;What&ldquo; but also Why, with Who, and How it made me feel, 
+      I learned that by understanding the context behindf how I used this tool, not just &ldquo;What&ldquo; but also Why, with Who, and How it made me feel, 
       I could unlock an important story of who I am and what I value.
 
       </p>
@@ -73,7 +73,7 @@ I have been curious about exploring how our personalities manifest in the materi
       <p className="leading-7 [&:not(:first-child)]:mt-6">
       I knew in my life there was behaviors and experiences I want to maximize and minimize. 
       That&apos;s why I built Intentions, a tool that helps you reflect on your spending to understand if it aligns with your values.
-      It&apos;s not about judging, rather understanding deeply the decision that were made, which often requires context - What, Why, Who, and How it made you feel.
+      It&apos;s not about judging, rather deeply understanding the decisions that were made, which requires context - What, Why, Who, and How.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -100,7 +100,7 @@ I have been curious about exploring how our personalities manifest in the materi
       </p> */}
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-      I saw my peers  resonating with this approach to finances. This mindset has made finances less daunting, and that is why I built SavebyValues/Intentions to enable others to feel the same way.
+      I saw my peers resonated with this approach to finances which is why I built SavebyValues/Intentions to enable others to feel the same way.
       </p>
 
     

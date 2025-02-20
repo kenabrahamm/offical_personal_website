@@ -15,7 +15,7 @@ export default function PalindromePage() {
       <p className="text-muted-foreground">January 2023 - 2 minute read</p>
       <Separator/>
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-          When I moved out, my roommate and I discussed how we wanted to feel in the space, and of course the budget. We landed on no couch and no TV.
+          When I moved out, my roommate and I discussed how we wanted to feel in the space. We landed on no couch and no TV.
       </p>
       <p className="leading-7 [&:not(:first-child)]:mt-6">
           There is no wrong or right living setup, I thought it would be fun to experiment with a decision that&apos;s reversible.
@@ -58,11 +58,14 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Your undivided attention is your most valuable asset, I wanted to create an environment where I focused on one thing at a time.
+        Core premise: Your undivided attention is your most valuable asset.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Humans are visual creatures, or at least I am, so it&apos;s natural for us to focus on the things around us. I wanted to remove the default center of focus, the TV. By doing this there&apos;s space for a new one to emerge, one that is centered around people, one where you&apos;re less passively engaged. There&apos;s so many times where I found myself scrolling on my phone while watching TV. Getting nothing out of either experience. Now, I find myself sitting down looking blankly at nothing, there&apos;s nothing I am supposed to look at. sometimes I sit and only listen to music, or sit and eventually have my eyes shift focus to one of books on the table and read.
+        Humans are visual creatures, or at least I am, so it&apos;s natural for us to focus on the things around us. I wanted to remove the default center of focus, the TV. By doing this there&apos;s space for a new one to emerge, one that is centered around people, one where you&apos;re less passively engaged. There&apos;s so many times where I found myself scrolling on my phone while watching TV. Getting nothing out of either experience.
+          
+        Now I find myself sitting down looking blankly at nothing, since there&apos;s nothing I am supposed to look at other things take it&apos;s place. 
+        Sometimes I sit and listen to music, or sit with no objective in mind,  eventually my eyes shift focus to one of books on the table and I end up reading.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -74,7 +77,7 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        In this world it&apos;s very easy to take yourself too seriously. Many of us lead very busy lives filled with deadlines, stress and obligations. You might be working on new technology in emerging markets, or high value deals, or at the edge of artistic vision, all this noise makes it really easy to take yourself too seriously.
+        In this world it&apos;s very easy to take yourself too seriously. Many of us lead very busy lives filled with deadlines, stress and obligations. You might be working on new technology in emerging markets, or high value deals, or at the edge of artistic vision, all this makes it really easy to take yourself too seriously.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -86,7 +89,7 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It&apos;s cheap. 3 floor chairs and 1 fancy swivel chair, brand new, cost us a total of $360. It&apos;s tough finding  a used sofa for that price seating 4. It also an ideal to cuddle with your girlfriend without falling, we&apos;ve all been there, you can&apos;t fall if you&apos;re already on the floor.
+        It&apos;s cheap. 3 floor chairs and 1 fancy swivel chair, brand new, cost us a total of $360, it&apos;s tough finding  a used sofa for that price. It also an ideal to cuddle with your parnter without falling, we&apos;ve all been there, you can&apos;t fall if you&apos;re already on the floor.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -94,11 +97,11 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        The seats also encourage you to sit in varied positions, cross legged, stretched out or weird crab stance through your sitting, which is great for mobility.
+        The seats also encourage you to sit in varied positions, cross legged, stretched out or a weird crab stance, which is great for mobility and breaks up my chair sitting.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It isn&apos;t for everyone, but truthfully, I always found myself sitting on the floor leaning against the sofa. So when I got my own place I wanted to recreate that experience everyday.
+        It isn&apos;t for everyone some people need their couch and TV, but truthfully, I always found myself sitting on the floor even if there was a couch, so in my own space I wanted to recreate that experience.
       </p>
 
      
