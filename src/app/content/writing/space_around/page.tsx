@@ -62,14 +62,14 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Humans are visual creatures, or at least I am, so it&apos;s natural for us to focus on the things around us. I wanted to remove the default center of focus, the TV. By doing this there&apos;s space for a new one to emerge, one that is centered around people, one where you&apos;re less passively engaged. There&apos;s so many times where I found myself scrolling on my phone while watching TV. Getting nothing out of either experience.
+        Humans are visual creatures, or at least I am, so it&apos;s natural for us to focus on the things around us. I wanted to remove the default center of focus, the TV. By doing this there&apos;s space for a new one to emerge, one that is centered around people, one where you&apos;re less passively engaged. There were so many times I found myself scrolling on my phone watching TV, getting nothing out of either experience.
           
-        Now I find myself sitting down looking blankly at nothing, since there&apos;s nothing I am supposed to look at other things take it&apos;s place. 
-        Sometimes I sit and listen to music, or sit with no objective in mind,  eventually my eyes shift focus to one of books on the table and I end up reading.
+        Now I find myself sitting down looking blankly at nothing, since there&apos;s nothing I am supposed to look at, other activities take it&apos;s place. 
+        Sometimes I sit and listen to music, or just sit with no objective in mind, eventually my eyes shift focus to one of books on the table and I end up reading.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        For watching content, I regularly book out the condo theater room, which is always available, or just watch through my laptop. In all fairness I don&apos;t watch much TV, but when I do I like the sense of occasion and engagement the theater room brings.
+        For watching content, I regularly book out the condo theater room, which is always available, or just watch on my laptop. In all fairness I don&apos;t watch much TV, but when I do I like the sense of occasion and engagement the theater room brings.
       </p>
 
       <h2 className="scroll-m-20 border-b pb-2 text-2xl font-semibold tracking-tight transition-colors first:mt-0">
@@ -93,7 +93,7 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Since the chairs folds and lay flat it is always easy to store away and create space, great for morning stretches or playing games. My favourite part of the compact size and low position is how it creates less visual clutter and feeling of openness throughout the space. 
+        Since the chairs fold and lay flat it is always easy to store away and create space, great for morning stretches or playing games. My favourite part of the compact size and low position is how it creates less visual clutter and feeling of openness throughout the space. 
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -101,7 +101,7 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It isn&apos;t for everyone some people need their couch and TV, but truthfully, I always found myself sitting on the floor even if there was a couch, so in my own space I wanted to recreate that experience.
+        It isn&apos;t for everyone, some need their couch and TV, but truthfully, I always sat on the floor even if there was a couch, so in my own space I decided to experiment.
       </p>
 
      
