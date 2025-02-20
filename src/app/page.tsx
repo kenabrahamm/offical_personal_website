@@ -45,7 +45,7 @@ const projects: Project[] = [
   {
     title: "Intentions",
     href: "https://www.intentions.tech",
-    description: "Reflecton your values using your spending",
+    description: "Reflect on your values using your spending",
     date: "2024 Sep - Current ",
     tags: ["Digital"],
   },
