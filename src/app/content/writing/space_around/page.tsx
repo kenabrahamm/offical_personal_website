@@ -18,7 +18,7 @@ export default function PalindromePage() {
           When I moved out, my roommate and I discussed how we wanted to feel in the space. We landed on no couch and no TV.
       </p>
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-          There is no wrong or right living setup, I thought it would be fun to experiment with a decision that&apos;s reversible.
+      There is no right or wrong living setup. I thought it would be fun to experiment with a decision that&apos;s reversible.
       </p>
       <div className="flex justify-center"> 
         <Image 
@@ -36,7 +36,7 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        In the space there&apos;s a circular table surrounded by 3 floor chairs while both our desks and monitors sit facing the windows. On the table we always leave, coasters, a deck of cards, colouring pencils and a scroll of paper.
+      In the space, there&apos;s a circular table surrounded by three floor chairs, while both our desks and monitors face the windows.
       </p>
       <div className="flex justify-center"> 
         <Image 
@@ -89,11 +89,11 @@ export default function PalindromePage() {
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It&apos;s cheap. 3 floor chairs and 1 fancy swivel chair, brand new, cost us a total of $360, it&apos;s tough finding  a used sofa for that price. It also an ideal to cuddle with your parnter without falling, we&apos;ve all been there, you can&apos;t fall if you&apos;re already on the floor.
+        It&apos;s cheap. 3 floor chairs and 1 fancy swivel chair, brand new, cost us a total of $360, it&apos;s tough finding  a used sofa for that price. It also an ideal to cuddle with your partner without falling, we&apos;ve all been there, you can&apos;t fall if you&apos;re already on the floor.
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        Since the chairs fold and lay flat it is always easy to store away and create space, great for morning stretches or playing games. My favourite part of the compact size and low position is how it creates less visual clutter and feeling of openness throughout the space. 
+        Since the chairs fold and lay flat, it is always easy to store away and create space, great for morning stretches or playing games. My favourite part of the compact size and low position is how it creates less visual clutter and a feeling of openness throughout the space. 
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
@@ -101,7 +101,7 @@ export default function PalindromePage() {
       </p>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-        It isn&apos;t for everyone, some need their couch and TV, but truthfully, I always sat on the floor even if there was a couch, so in my own space I decided to experiment.
+        It isn&apos;t for everyone, some need their couch and TV, but truthfully, I always sat on the floor even when there was a couch, so in my own space I decided to experiment.
       </p>
 
      

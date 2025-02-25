@@ -57,7 +57,7 @@ I have been curious about exploring how our personalities manifest in the materi
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
       As I grew older and started to reflect, I developed a framework to think about spending in a way that resonated with me, seeing money for what it is, a tool. 
-      I learned that by understanding the context behindf how I used this tool, not just &ldquo;What&ldquo; but also Why, with Who, and How it made me feel, 
+      I learned that by understanding the context behind how I used this tool, not just &ldquo;What&ldquo; but also Why, with Who, and How it made me feel, 
       I could unlock an important story of who I am and what I value.
 
       </p>
@@ -71,7 +71,7 @@ I have been curious about exploring how our personalities manifest in the materi
       </h2>
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-      I knew in my life there was behaviors and experiences I want to maximize and minimize. 
+      I knew in my life there were behaviors and experiences I want to maximize and minimize. 
       That&apos;s why I built Intentions, a tool that helps you reflect on your spending to understand if it aligns with your values.
       It&apos;s not about judging, rather deeply understanding the decisions that were made, which requires context - What, Why, Who, and How.
       </p>
@@ -100,7 +100,7 @@ I have been curious about exploring how our personalities manifest in the materi
       </p> */}
 
       <p className="leading-7 [&:not(:first-child)]:mt-6">
-      I saw my peers resonated with this approach to finances which is why I built SavebyValues/Intentions to enable others to feel the same way.
+      I saw that my peers resonated with this approach to finances, which is why I built SavebyValues/Intentions.
       </p>
 
     
