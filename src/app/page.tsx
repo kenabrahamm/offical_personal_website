@@ -52,7 +52,7 @@ const projects: Project[] = [
   {
     title: "Palindrome",
     href: "https://www.notion.so/palindromeinc/Palindrome-7dc31b51b3c2433ba495c5061e301580",
-    description: "Building a enthustiast car that's practical and fun",
+    description: "Building an enthusiast car that's practical and fun",
     date: "2023 Nov - Current ",
     tags: ["Physical"],
   },
