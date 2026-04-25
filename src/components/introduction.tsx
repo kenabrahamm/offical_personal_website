@@ -24,7 +24,7 @@ export function Introduction() {
       </div>
       <p className="font-light">
         I currently work as a 
-        <span className="font-semibold"> Sr. Product Manager</span> for supply-chain optimization tech @ 
+        <span className="font-semibold"> Sr. Product Manager</span> optimization supply-chain tech @ 
         {/* <span className="font-semibold"> Analytics / Project Management</span> at{" "} */}
         <span className="font-semibold"> Amazon</span>. 
       </p>
